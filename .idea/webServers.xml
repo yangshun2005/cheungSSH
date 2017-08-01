@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2d758cc7-c5df-4cb2-87cf-d9aab39af2a5" name="107_2022@192.168.122.223@cheungssh" url="http://118.186.221.107:2081">
+        <fileTransfer host="118.186.221.107" port="2022" rootFolder="/home/cheungssh" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2022" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
